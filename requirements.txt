@@ -1,0 +1,5 @@
+opencv-python-headless
+cvzone
+numpy
+google-generativeai
+streamlit
